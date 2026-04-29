@@ -1,0 +1,42 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "quiz": [
+    {
+      "question": "Where was Alan Turing born?",
+      "options": ["London", "Manchester", "Cambridge", "Oxford"],
+      "answer": "London",
+      "difficulty": "easy",
+      "explanation": "Alan Turing was born in London, England."
+    },
+    {
+      "question": "What machine did Turing help develop during WWII?",
+      "options": ["ENIAC", "Bombe", "Colossus", "Z3"],
+      "answer": "Bombe",
+      "difficulty": "medium",
+      "explanation": "The Bombe machine helped decode German Enigma messages."
+    },
+    {
+      "question": "Which concept is named after Turing?",
+      "options": ["Turing Machine", "Newton Machine", "Quantum Engine", "AI Engine"],
+      "answer": "Turing Machine",
+      "difficulty": "easy",
+      "explanation": "The Turing Machine is a foundational concept in computer science."
+    },
+    {
+      "question": "What test evaluates machine intelligence?",
+      "options": ["IQ Test", "Turing Test", "Logic Test", "AI Test"],
+      "answer": "Turing Test",
+      "difficulty": "easy",
+      "explanation": "The Turing Test checks if a machine can mimic human intelligence."
+    },
+    {
+      "question": "Which field did Turing contribute to?",
+      "options": ["Biology", "Computer Science", "Chemistry", "Astronomy"],
+      "answer": "Computer Science",
+      "difficulty": "easy",
+      "explanation": "Turing is considered a pioneer of computer science."
+    }
+  ],
+  "related_topics": ["Enigma Machine", "Cryptography", "Artificial Intelligence"]
+}

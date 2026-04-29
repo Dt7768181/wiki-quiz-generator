@@ -131,9 +131,10 @@ npm start
 
 Add screenshots here:
 
-* Generate Quiz Page
-* History Page
-* Quiz Modal
+<img width="1845" height="2393" alt="image" src="https://github.com/user-attachments/assets/e02e9740-90dd-470d-946a-4c2f3d9f8f22" />
+<img width="1845" height="2705" alt="image" src="https://github.com/user-attachments/assets/2aefcd6e-975d-4980-be91-bf5e73fa0bf2" />
+<img width="1864" height="928" alt="image" src="https://github.com/user-attachments/assets/01883fee-ac2c-48ff-9800-6250db655c2c" />
+
 
 ---
 
